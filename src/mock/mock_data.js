@@ -53,6 +53,13 @@ export const mockData = {
           "url": "https://curlconverter.com/",
           "description": "curl命令转换工具",
           "icon": "/sitelogo/curlconverter.com.ico"
+        },
+        {
+          "id": "site-1758408591286",
+          "name": "claw run one mcp",
+          "url": "https://badumsqlscuk.us-east-1.clawcloudrun.com/services",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -647,6 +654,20 @@ export const mockData = {
           "url": "https://www.pasyun.com/",
           "description": "ipv6机器",
           "icon": "/sitelogo/www.pasyun.com.ico"
+        },
+        {
+          "id": "site-1758408624422",
+          "name": "claw run",
+          "url": "https://us-east-1.run.claw.cloud/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1758408639022",
+          "name": "hugging",
+          "url": "https://huggingface.co/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -801,6 +822,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "晞晞导航",
-  "_fileSha": "05c357106f044b03c25fa4182ee8f490f5a36b26"
+  "title": "晞晞导航"
 }
