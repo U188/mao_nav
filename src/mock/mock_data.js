@@ -492,6 +492,13 @@ export const mockData = {
           "icon": ""
         },
         {
+          "id": "site-1758379833277",
+          "name": "火哥分享",
+          "url": "https://www.firepx.com/",
+          "description": "",
+          "icon": ""
+        },
+        {
           "id": "site-1758379724820",
           "name": "小众软件",
           "url": "https://meta.appinn.net/c/faxian/10",
@@ -499,11 +506,17 @@ export const mockData = {
           "icon": ""
         },
         {
-          "id": "site-1758379833277",
-          "name": "火哥分享",
-          "url": "https://www.firepx.com/",
+          "id": "site-1758462569935",
+          "name": "prompt生成",
+          "url": "https://yprompt.pages.dev",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1758462594351",
+          "name": "阅读源",
+          "url": "https://legado.aoaostar.com",
+          "description": ""
         }
       ]
     },
