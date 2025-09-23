@@ -840,6 +840,28 @@ export const mockData = {
           "icon": "/sitelogo/www.futunn.com.ico"
         }
       ]
+    },
+    {
+      "id": "category-1758626597727",
+      "icon": "🌐",
+      "name": "代理相关",
+      "order": 13,
+      "sites": [
+        {
+          "id": "site-1758626614775",
+          "name": "优选域名网站",
+          "url": "https://www.cnae.top/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1758626636028",
+          "name": "免费节点",
+          "url": "https://www.bsbb.cc/",
+          "description": "",
+          "icon": ""
+        }
+      ]
     }
   ],
   "title": "晞晞导航"
