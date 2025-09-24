@@ -70,6 +70,13 @@ export const mockData = {
       "order": 1,
       "sites": [
         {
+          "id": "site-1758378410227",
+          "name": "黑与白chatAPI",
+          "url": "https://ai.hybgzs.com/panel/topup",
+          "description": "",
+          "icon": ""
+        },
+        {
           "id": "site-1758377900354",
           "name": "BU4",
           "url": "https://b4u.qzz.io/console/token",
@@ -80,13 +87,6 @@ export const mockData = {
           "name": "B4U投喂",
           "url": "https://tw.b4u.qzz.io/dashboard",
           "description": "投喂站"
-        },
-        {
-          "id": "site-1758378410227",
-          "name": "黑与白chatAPI",
-          "url": "https://ai.hybgzs.com/panel/topup",
-          "description": "",
-          "icon": ""
         },
         {
           "id": "site-1758378399595",
@@ -280,6 +280,13 @@ export const mockData = {
           "id": "site-1758378639259",
           "name": "Mu.Li API Relive",
           "url": "https://demo.awa1.fun/console/topup",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1758690382093",
+          "name": "azuersun",
+          "url": "https://api.colin1112.me/",
           "description": "",
           "icon": ""
         }
