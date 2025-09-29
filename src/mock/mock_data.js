@@ -27,13 +27,6 @@ export const mockData = {
           "description": ""
         },
         {
-          "id": "site-1758378820275",
-          "name": "One MCP",
-          "url": "https://tyb7654-one.hf.space/",
-          "description": "",
-          "icon": ""
-        },
-        {
           "id": "site-1752649007053",
           "name": "BeJson",
           "url": "https://www.bejson.com/",
