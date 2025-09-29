@@ -53,6 +53,13 @@ export const mockData = {
           "url": "https://badumsqlscuk.us-east-1.clawcloudrun.com/services",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1759143280203",
+          "name": "us.kg",
+          "url": "https://dash.domain.digitalplat.org/panel/main",
+          "description": "",
+          "icon": ""
         }
       ]
     },
