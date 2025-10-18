@@ -545,6 +545,13 @@ export const mockData = {
           "name": "阅读源",
           "url": "https://legado.aoaostar.com",
           "description": ""
+        },
+        {
+          "id": "site-1760820149295",
+          "name": "filecr破解网站",
+          "url": "https://filecr.com/android/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
