@@ -77,18 +77,6 @@ export const mockData = {
           "icon": ""
         },
         {
-          "id": "site-1758378180827",
-          "name": "B4U投喂",
-          "url": "https://tw.b4u.qzz.io/dashboard",
-          "description": "投喂站"
-        },
-        {
-          "id": "site-1758377900354",
-          "name": "BU4",
-          "url": "https://b4u.qzz.io/console/token",
-          "description": "claude公益"
-        },
-        {
           "id": "site-1758378399595",
           "name": "黑与白chatAPI福利站",
           "url": "https://cdk.hybgzs.com/",
@@ -117,78 +105,9 @@ export const mockData = {
           "icon": "/sitelogo/cursor.sh.ico"
         },
         {
-          "id": "site-1758378254627",
-          "name": "T佬公益",
-          "url": "https://tbai.xin/console/token",
-          "description": ""
-        },
-        {
-          "id": "site-1758378272867",
-          "name": "波波公益站",
-          "url": "https://for.shuo.bar/console/token",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1758378286899",
-          "name": "Tian Tian API",
-          "url": "https://tiantianai.pro/console/token",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1758378309163",
-          "name": "zhongruan公益站",
-          "url": "https://api.zhongruanapi.dpdns.org/dash",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1758378334275",
-          "name": "23公益站",
-          "url": "https://sdwfger.edu.kg",
-          "description": "",
-          "icon": ""
-        },
-        {
           "id": "site-1758378352915",
           "name": "富可敌国",
           "url": "https://www.mnapi.com/pricing",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1758378366763",
-          "name": "KYX API",
-          "url": "https://api.kkyyxx.xyz/console/topup",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1758378376843",
-          "name": "Becode公益",
-          "url": "https://becode.be-a.dev/console/topup",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1758378389499",
-          "name": "LinsAI - Gemini Flash API",
-          "url": "https://ai.lins.dev/app/wallet",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1758378423083",
-          "name": "红石API",
-          "url": "https://hongshi1024-l-api.hf.space/app/tokens",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1758378433659",
-          "name": "freen公益API服务",
-          "url": "https://free-llm.cupsfunny.com/console/topup",
           "description": "",
           "icon": ""
         },
@@ -207,41 +126,6 @@ export const mockData = {
           "icon": ""
         },
         {
-          "id": "site-1758378483171",
-          "name": "ThatAPI",
-          "url": "https://api-point.huawen.blog/topup",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1758378494683",
-          "name": "DeepSeek AI",
-          "url": "https://api.smnet.studio/",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1758378506403",
-          "name": "归一",
-          "url": "https://ai.luuu71.dpdns.org/console/topup",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1758378518187",
-          "name": "Veloera api",
-          "url": "https://zone.veloera.org/app/me",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1758378527539",
-          "name": "linjinVeloera",
-          "url": "https://linjinpeng-veloera.hf.space/app/tokens",
-          "description": "",
-          "icon": ""
-        },
-        {
           "id": "site-1758378538163",
           "name": "Nyxar API",
           "url": "https://api.nyxar.org/console/topup",
@@ -256,65 +140,9 @@ export const mockData = {
           "icon": ""
         },
         {
-          "id": "site-1758378572187",
-          "name": "ClawCloud Run",
-          "url": "https://us-west-1.run.claw.cloud/",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1758378585995",
-          "name": "codex 专用Meglinge API",
-          "url": "https://ai.meglinge.top/console/token",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1758378614171",
-          "name": "无限制API 密钥管理",
-          "url": "https://ai-api.binklac.com/key",
-          "description": "",
-          "icon": ""
-        },
-        {
           "id": "site-1758378639259",
           "name": "Mu.Li API Relive",
           "url": "https://demo.awa1.fun/console/topup",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1758690382093",
-          "name": "azuersun",
-          "url": "https://api.colin1112.me/",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1759196853274",
-          "name": "laowen",
-          "url": "https://veloera.wenwen12345.top/",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1759196902455",
-          "name": "xmdbd",
-          "url": "https://xmdbd.online/",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1760384565005",
-          "name": "anyrouter",
-          "url": "https://anyrouter.top/console/token",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1761948070079",
-          "name": "freen-qw",
-          "url": "https://free-qwen.qinyining.cn/console",
           "description": "",
           "icon": ""
         }
