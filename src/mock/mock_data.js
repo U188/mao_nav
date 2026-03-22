@@ -60,6 +60,13 @@ export const mockData = {
           "url": "https://dash.domain.digitalplat.org/panel/main",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1774170681232",
+          "name": "数据库",
+          "url": "https://console.upstash.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
