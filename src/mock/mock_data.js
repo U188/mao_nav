@@ -67,6 +67,13 @@ export const mockData = {
           "url": "https://console.upstash.com/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1774812818853",
+          "name": "eu.cc",
+          "url": "https://www.gname.vip/user",
+          "description": "",
+          "icon": ""
         }
       ]
     },
