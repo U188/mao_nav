@@ -74,6 +74,13 @@ export const mockData = {
           "url": "https://www.gname.vip/user",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1774863108815",
+          "name": "转存",
+          "url": "https://files.mo-46596.workers.dev/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
