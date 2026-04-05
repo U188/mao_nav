@@ -88,6 +88,13 @@ export const mockData = {
           "url": "https://my.dnshe.com/index.php?m=domain_hub",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1775415023443",
+          "name": "优选域名",
+          "url": "https://www.cnae.top",
+          "description": "",
+          "icon": ""
         }
       ]
     },
