@@ -81,6 +81,13 @@ export const mockData = {
           "url": "https://files.mo-46596.workers.dev/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1775408164624",
+          "name": "域名",
+          "url": "https://my.dnshe.com/index.php?m=domain_hub",
+          "description": "",
+          "icon": ""
         }
       ]
     },
