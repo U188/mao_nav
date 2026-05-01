@@ -147,13 +147,6 @@ export const mockData = {
           "icon": ""
         },
         {
-          "id": "site-1758378445851",
-          "name": "图片SoraApi",
-          "url": "https://api.fuio.tech/console/token",
-          "description": "",
-          "icon": ""
-        },
-        {
           "id": "site-1758378466723",
           "name": "Elysia",
           "url": "https://elysia.h-e.top/app/wallet",
@@ -161,23 +154,9 @@ export const mockData = {
           "icon": ""
         },
         {
-          "id": "site-1758378538163",
-          "name": "Nyxar API",
-          "url": "https://api.nyxar.org/console/topup",
-          "description": "",
-          "icon": ""
-        },
-        {
           "id": "site-1758378558059",
           "name": "PrismAI",
           "url": "https://ai.prism.uno/console/topup",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1758378639259",
-          "name": "Mu.Li API Relive",
-          "url": "https://demo.awa1.fun/console/topup",
           "description": "",
           "icon": ""
         }
