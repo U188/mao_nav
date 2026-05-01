@@ -312,13 +312,6 @@ export const mockData = {
           "icon": ""
         },
         {
-          "id": "site-1758379369820",
-          "name": "雷鲸",
-          "url": "https://www.leijing.xyz/index",
-          "description": "",
-          "icon": ""
-        },
-        {
           "id": "site-1758379388132",
           "name": "黑木耳",
           "url": "https://heimuer.tv",
@@ -326,9 +319,37 @@ export const mockData = {
           "icon": ""
         },
         {
+          "id": "site-1758379369820",
+          "name": "雷鲸",
+          "url": "https://www.leijing.xyz/index",
+          "description": "",
+          "icon": ""
+        },
+        {
           "id": "site-1758379784589",
           "name": "白嫖地（学习）",
           "url": "http://daxuesheng123.ysepan.com/?xzpd=1",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777664940495",
+          "name": "BT磁力",
+          "url": "https://www.btbtla.com/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777664957677",
+          "name": "搜番",
+          "url": "https://sc.sefan.cc/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777664976115",
+          "name": "GD音乐台",
+          "url": "https://music.gdstudio.xyz/",
           "description": "",
           "icon": ""
         }
