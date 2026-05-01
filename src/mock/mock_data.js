@@ -319,13 +319,6 @@ export const mockData = {
           "icon": ""
         },
         {
-          "id": "site-1758379379549",
-          "name": "盘",
-          "url": "http://www.panmeme.com/wenjian/73e72288d60a.html",
-          "description": "",
-          "icon": ""
-        },
-        {
           "id": "site-1758379388132",
           "name": "黑木耳",
           "url": "https://heimuer.tv",
