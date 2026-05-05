@@ -202,6 +202,13 @@ export const mockData = {
           "url": "https://www.oracle.com/java/technologies/downloads/",
           "description": "Oracle官方Java下载",
           "icon": "/sitelogo/www.oracle.com.ico"
+        },
+        {
+          "id": "site-1777985829310",
+          "name": "设计UI",
+          "url": "https://www.uiprompt.site/zh/styles",
+          "description": "",
+          "icon": ""
         }
       ]
     },
