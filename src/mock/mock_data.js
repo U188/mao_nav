@@ -105,6 +105,13 @@ export const mockData = {
       "order": 1,
       "sites": [
         {
+          "id": "site-1778068902871",
+          "name": "hub",
+          "url": "https://hub.linux.do",
+          "description": "",
+          "icon": ""
+        },
+        {
           "id": "site-1758378410227",
           "name": "黑与白chatAPI",
           "url": "https://ai.hybgzs.com/panel/topup",
