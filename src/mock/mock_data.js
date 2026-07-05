@@ -266,6 +266,13 @@ export const mockData = {
           "url": "https://tinypng.com",
           "description": "图片压缩工具",
           "icon": "/sitelogo/tinypng.com.ico"
+        },
+        {
+          "id": "site-1783234401250",
+          "name": "JS混淆",
+          "url": "https://go.sssc.nyc.mn/js-obfuscator",
+          "description": "",
+          "icon": ""
         }
       ]
     },
